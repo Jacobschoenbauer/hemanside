@@ -1,14 +1,24 @@
+
+
 h1 {
   display: flex;
   justify-content: center;
 }
+
 .eternia {
   background-color: blue;
   color: azure;
+
 }
 ul {
   display: flex;
   justify-content: space-around;
 }
-li {
+
+.hesle{
+  display: flex;
+  justify-content: center;
+  background-color: bisque;
+
 }
+
