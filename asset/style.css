@@ -15,7 +15,7 @@ ul {
 .hesle {
   display: flex;
   justify-content: center;
-  background-color: bisque;
+  
 }
 .skeletor {
   border-radius: 50px 0px 0px 50px;
@@ -25,7 +25,7 @@ ul {
 }
 
 .heman, .skeletor{
-  width: 300px;
+  width: 400px;
 
 }
 
