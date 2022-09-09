@@ -9,6 +9,7 @@ h1 {
   margin: 0px;
   color: white;
   align-items: center;
+
 }
 
 .eternia {
@@ -21,7 +22,7 @@ h1 {
 ul {
   display: flex;
   justify-content: space-around;
-  color: white;
+  
   background-color: beige;
   margin: 0px;
   height: 50px;
@@ -59,10 +60,9 @@ ul {
 .lead {
   border-radius: 100px;
 }
-.heman,
-.skeletor,
-.lead {
-  box-shadow: 10px 10px 8px #262d2e;
+
+.lead:hover {
+  box-shadow: 10px 10px 8px #dad612;
 }
 
 .leader,
@@ -70,3 +70,16 @@ ul {
   display: flex;
   justify-content: center;
 }
+ .fun{
+  color: black;
+  font-size: larger;
+ }
+ .fun:hover{
+  color: rgb(134, 13, 143);
+ }
+ .heman:hover{
+  box-shadow: 10px 10px 8px #dd1717;}
+ .skeletor:hover{
+  box-shadow: 10px 10px 8px #09cce6;}
+ 
+ 
