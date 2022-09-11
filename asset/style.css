@@ -13,7 +13,7 @@ h1 {
 }
 
 .eternia {
-  background-color: blue;
+  background-color: rgba(86, 8, 131, 0.395);
   color: azure;
   height: 80px;
   margin: 0px;
@@ -69,6 +69,7 @@ ul {
 .top {
   display: flex;
   justify-content: center;
+  color: white;
 }
  .fun{
   color: black;

@@ -7,10 +7,10 @@ var powCharter = [
   "Optimus",
 ];
 
-if (powCharter[0] === "He-man")
-  console.log("He-man is not my favorite charecter");
+
 powCharter.forEach(function (charecter) {
   console.log(charecter);
+
   if (charecter === "He-man") {
     console.log("He-man is my favorite charecter");
   } else {
@@ -18,5 +18,3 @@ powCharter.forEach(function (charecter) {
   }
 });
 
-console.log(powCharter[0]);
-console.log(powCharter[4]);
